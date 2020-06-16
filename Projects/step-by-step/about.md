@@ -1,4 +1,6 @@
 ---
+# `Front Matter` tells `Jekyll` to process `Liquid`
+# It will fill out a layout in the `_layouts` folder
 layout: default
 title: About
 ---
