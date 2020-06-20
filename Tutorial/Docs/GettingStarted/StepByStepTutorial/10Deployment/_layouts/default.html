@@ -1,0 +1,14 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>  <!-- set by the content page -->
+    <link rel="stylesheet" href="/assets/css/styles.css">  <!-- reference a Jekyll generated `styles.css` file -->
+    {% feed_meta %}
+    {% seo %}
+  </head>
+  <body>
+    {% include navigation.html %}  <!-- include repeat content -->
+    {{ content }}  <!-- layouts wrap around content -->
+  </body>
+</html>
