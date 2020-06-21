@@ -22,7 +22,7 @@ $: jekyll -v
 See the [step-by-step project](../Projects/step-by-step).  
 [Accompanying tutorial](Docs/GettingStarted/StepByStepTutorial).  
 
-#### Quickstart
+#### QuickStart
 
 ```
 $: jekyll new Root-Jekyll-Project
