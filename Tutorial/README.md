@@ -20,7 +20,8 @@ $: jekyll -v
 ### Local development
 
 See the [step-by-step project](../Projects/step-by-step).  
-[Accompanying tutorial](Docs/GettingStarted/StepByStepTutorial).  
+
+[Accompanying tutorial](Docs/GettingStarted/StepByStepTutorial)
 
 #### QuickStart
 
